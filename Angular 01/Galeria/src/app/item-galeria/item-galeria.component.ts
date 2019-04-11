@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-item-galeria',
@@ -7,9 +7,55 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ItemGaleriaComponent implements OnInit {
 
+  title  = 'Licoreria'
+@Input()
+nombreItem ;
+@Input()
+textoBoton;
   constructor() { }
 
   ngOnInit() {
   }
+
+  alertar(){
+
+    alert('Auxilio mijo: '+this.nombreItem);
+
+  }
+
+}
+
+
+
+
+
+class Usuario{
+
+
+@Input()
+
+  private nombre='Michael'
+
+
+  constructor(nombre){
+
+
+}
+metodoPublico(){
+
+
+
+}
+private metodoPrivado(){
+
+
+
+}
+protected metodoProtected(){
+
+
+
+}
+
 
 }

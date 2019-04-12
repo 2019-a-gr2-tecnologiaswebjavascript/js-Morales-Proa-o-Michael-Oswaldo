@@ -1,7 +1,16 @@
-<h1 class="rojo">Titulo: {{title}}</h1>
+<h1 class="rojo">Item galeria - {{title}}</h1>
+<!-- {{}} ->  Interpolacion -->
+<p>Nombre: {{nombreItem}}</p>
+<!-- () EVENT BINDING ->  Evento -->
+<button (click)="alertar()">
+  {{textoBoton}}
+</button>
 
-<h2> Nombre del componente: {{nombreItem}}</h2>
+<!-- [] Property Binding -> Propiedades/Atributos -->
+<img [src]="url" alt=""
+     (click)="cambiarImagen()">
 
-<button (blur)="alertarBlur()"(click)="alertar()">{{textoBoton}}</button>
-
-
+<!-- Directiva -> *ngFor  -->
+<p *ngFor="let nota of notas">
+  {{nota}}
+</p>

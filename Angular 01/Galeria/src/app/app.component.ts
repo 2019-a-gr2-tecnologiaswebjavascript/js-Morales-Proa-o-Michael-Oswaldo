@@ -6,5 +6,57 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Galeria';
+  title = 'Floreria';
+
+  
+  arregloFlores = [
+    new Flor("Papitas","A lo bestia"),
+    new Flor("Carnitas","Gorditas"),
+    new Flor("Chicas","Cheveres")
+  ];
+
+  arregloFloresJs = [
+    {
+      nombre:"Papitas",
+      descripcion:"A lo bestia",
+      // dato:1,
+      // dato1:1.1,
+      // dato3:" asdasd ",
+      // dato4:false,
+      // dato5:true,
+      // dato6:null
+    },
+    {
+      nombre:"Carnitas",
+      descripcion:"Gorditas"
+    },
+    {
+      nombre:"Chicas",
+      descripcion:"Cheveres"
+    }
+  ]
+
+
+  cambioChela(evento:boolean){
+    // logica hacerle verde
+
+
+
+
+  }
+
+  cambioCerveza(evento:boolean){
+    // logica hacerle amarillo
+
+  }
+
+
+
+}
+
+class Flor{
+  constructor(
+    public nombre: string,
+    public descripcion:string){
+  }
 }

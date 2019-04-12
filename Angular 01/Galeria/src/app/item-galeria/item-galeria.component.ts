@@ -23,6 +23,12 @@ textoBoton;
 
   }
 
+  alertarBlur(){
+
+    alert('Alertando Blur: '+this.nombreItem);
+
+  }
+
 }
 
 

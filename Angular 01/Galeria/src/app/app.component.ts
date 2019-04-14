@@ -6,7 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Floreria';
+  title = 'Floreria'
+  colorCambio = 'rojo'
+
+arregloPerros = [new Perro('pitbull','grande'),
+new Perro('Gran danes','Grande')]
+
 
 
   arregloFlores = [
@@ -14,7 +19,27 @@ export class AppComponent {
     new Flor("Carnitas","Gorditas"),
     new Flor("Chicas","Cheveres")
   ];
+arregloPerrosJs=[
+  {
+    raza:'pitbull',
+    tamanio:'grande'
 
+
+  }
+    ,
+  {
+    raza: 'gran Danes',
+    tamanio: 'Grandote'
+
+  },
+  {
+    raza:'Zorro',
+    tamanio:'Grandoteeee'
+
+  }
+
+
+]
   arregloFloresJs = [
     {
       nombre:"Papitas",
@@ -38,15 +63,15 @@ export class AppComponent {
 
 
   cambioChela(evento:boolean){
-    // logica hacerle verde
 
+   this.colorCambio = 'verde'
 
 
 
   }
 
   cambioCerveza(evento:boolean){
-    // logica hacerle amarillo
+    this.colorCambio='amarillo'
 
   }
 
@@ -60,3 +85,12 @@ class Flor{
     public descripcion:string){
   }
 }
+
+class Perro{
+  constructor(public raza: string,
+              public tamanio: string){
+
+  }
+}
+
+

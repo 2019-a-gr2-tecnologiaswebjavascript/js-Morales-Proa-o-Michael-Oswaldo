@@ -8,6 +8,8 @@ import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
 export class ItemGaleriaComponent implements OnInit {
 
   title = 'Licoreria';
+@Input()
+colorClase;
 
   @Input()
   textoBoton;
@@ -24,6 +26,8 @@ export class ItemGaleriaComponent implements OnInit {
   url = "http://www.dna-autoparts.com/23121-thickbox_default/bielas-forjadas-eagle-para-sr20det.jpg";
 
   notas = [1,2,3,4,5,6,7,8,9,10]
+
+  notitas =[6,7,8,9]
 
   constructor() { }
 
@@ -72,3 +76,4 @@ class Usuario{
  }
 }
 */
+

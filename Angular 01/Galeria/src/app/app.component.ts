@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Floreria';
 
-  
+
   arregloFlores = [
     new Flor("Papitas","A lo bestia"),
     new Flor("Carnitas","Gorditas"),

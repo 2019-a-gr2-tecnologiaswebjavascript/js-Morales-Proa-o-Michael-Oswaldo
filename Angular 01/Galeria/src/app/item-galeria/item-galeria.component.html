@@ -1,3 +1,16 @@
-<h1>Item Galeria funciona!!!!!!!
+<h1 class="rojo">Item galeria - {{title}}</h1>
+<!-- {{}} ->  Interpolacion -->
+<p>Nombre: {{nombreItem}}</p>
+<!-- () EVENT BINDING ->  Evento -->
+<button (click)="alertar()">
+  {{textoBoton}}
+</button>
 
-y se ....llama</h1>
+<!-- [] Property Binding -> Propiedades/Atributos -->
+<img [src]="url" alt=""
+     (click)="cambiarImagen()">
+
+<!-- Directiva -> *ngFor  -->
+<p *ngFor="let nota of notas">
+  {{nota}}
+</p>

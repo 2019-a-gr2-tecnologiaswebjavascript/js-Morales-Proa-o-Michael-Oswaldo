@@ -1,16 +1,18 @@
-import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
+import {Component, OnInit, Input, Output, EventEmitter, OnDestroy} from '@angular/core';
 
 @Component({
   selector: 'app-item-galeria',
   templateUrl: './item-galeria.component.html',
   styleUrls: ['./item-galeria.component.css']
 })
-export class ItemGaleriaComponent implements OnInit {
+export class ItemGaleriaComponent implements OnInit, OnDestroy {
 
   title = 'Licoreria';
 @Input()
 colorClase;
 
+  @Input()
+  titulo
   @Input()
   textoBoton;
 
@@ -32,6 +34,11 @@ colorClase;
   constructor() { }
 
   ngOnInit() {
+    console.log('Empezo')
+  }
+
+  ngOnDestroy(){
+    console.log('Termino')
   }
 
   alertar(){

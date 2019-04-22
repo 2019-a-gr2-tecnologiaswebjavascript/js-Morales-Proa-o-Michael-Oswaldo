@@ -51,7 +51,7 @@
           <entry key="gitignore" value="90" />
           <entry key="gitignore_global" value="14" />
           <entry key="html" value="697" />
-          <entry key="ts" value="2140" />
+          <entry key="ts" value="2141" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -59,7 +59,7 @@
           <entry key="CSS" value="62" />
           <entry key="HTML" value="697" />
           <entry key="PLAIN_TEXT" value="104" />
-          <entry key="TypeScript" value="2140" />
+          <entry key="TypeScript" value="2141" />
         </counts>
       </usages-collector>
     </session>
@@ -103,11 +103,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/servicios/carrito/carrito.service.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="462">
+              <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -148,7 +148,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -178,13 +178,13 @@
         <option value="$PROJECT_DIR$/.gitignore_global" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/mostrar-carrito/mostrar-carrito.component.ts" />
-        <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/servicios/carrito/carrito.service.ts" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/item-galeria/item-galeria.component.html" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/item-galeria/item-galeria.component.ts" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/styles.css" />
+        <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/servicios/carrito/carrito.service.ts" />
       </list>
     </option>
   </component>
@@ -276,6 +276,33 @@
               <item name="Galeria" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular 01" type="462c0819:PsiDirectoryNode" />
+              <item name="Galeria" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular 01" type="462c0819:PsiDirectoryNode" />
+              <item name="Galeria" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="servicios" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular 01" type="462c0819:PsiDirectoryNode" />
+              <item name="Galeria" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="servicios" type="462c0819:PsiDirectoryNode" />
+              <item name="carrito" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -320,12 +347,12 @@
       <workItem from="1554846284443" duration="1991000" />
       <workItem from="1555363367181" duration="4265000" />
       <workItem from="1555696932402" duration="415000" />
-      <workItem from="1555890024844" duration="13350000" />
+      <workItem from="1555890024844" duration="13475000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31445000" />
+    <option name="totallyTimeSpent" value="31570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -482,17 +509,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/servicios/carrito/carrito.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/servicios/carrito/carrito.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,5 @@
 import {Component, OnInit, Input, Output, EventEmitter, OnDestroy} from '@angular/core';
+import {carritoService} from "../servicios/carrito/carrito.service";
 
 @Component({
   selector: 'app-item-galeria',
@@ -8,7 +9,10 @@ import {Component, OnInit, Input, Output, EventEmitter, OnDestroy} from '@angula
 export class ItemGaleriaComponent implements OnInit, OnDestroy {
 
   title = 'Licoreria';
-@Input()
+
+
+
+  @Input()
 colorClase;
 
   @Input()
@@ -26,20 +30,42 @@ colorClase;
   cambioCerveza: EventEmitter<boolean> = new EventEmitter()
 
   url = "http://www.dna-autoparts.com/23121-thickbox_default/bielas-forjadas-eagle-para-sr20det.jpg";
+@Input()
+  notas;
 
-  notas = [1,2,3,4,5,6,7,8,9,10]
+
 
   notitas =[6,7,8,9]
 
-  constructor() { }
+  constructor(private readonly _carritoService: carritoService) {
+
+
+
+  }
 
   ngOnInit() {
-    console.log('Empezo')
+    console.log('Inicio la vida del componente');
+    console.log(this._carritoService.carritoCompras);
   }
 
   ngOnDestroy(){
-    console.log('Termino')
+    console.log('Dejo de existir el componente')
   }
+
+  agregarCarrito(valorCarrito){
+    const itemCarrito =  {
+      valor: valorCarrito,
+      nombreTienda: this.titulo
+
+
+    };
+
+//this._carritoService.carritoCompras.push(valorCarrito);
+    this._carritoService.carritoCompras.splice(0,0,itemCarrito);
+    console.log(this._carritoService.carritoCompras)
+  }
+
+
 
   alertar(){
     alert('Auxilio me desmayo: ' + this.nombreItem);

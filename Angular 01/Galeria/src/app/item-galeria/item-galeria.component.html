@@ -1,4 +1,4 @@
-<h1   [class]="colorClase">Item galeria - {{titulo}}</h1>
+<h1   [class]="colorClase">Tienda - {{titulo}}</h1>
 <!-- {{}} ->  Interpolacion -->
 <p>Nombre: {{nombreItem}}</p>
 <!-- () EVENT BINDING ->  Evento -->
@@ -11,10 +11,6 @@
      (click)="cambiarImagen()">
 
 <!-- Directiva -> *ngFor  -->
-<p *ngFor="let nota of notas">
-  {{nota}}
-</p>
-<p *ngFor = "let notita of notitas">
-
-  {{notita}}
-</p>
+<div *ngFor="let nota of notas">
+  <button (click)="agregarCarrito(nota)">{{nota}}</button>
+</div>

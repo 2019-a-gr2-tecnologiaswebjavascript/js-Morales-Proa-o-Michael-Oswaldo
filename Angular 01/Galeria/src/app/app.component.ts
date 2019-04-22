@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {carritoService} from "./servicios/carrito/carrito.service";
 
 @Component({
   selector: 'app-root',
@@ -6,44 +7,44 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Floreria'
-  colorCambio = 'rojo'
+  title = 'Floreria';
+  colorCambio = 'rojo';
+  estaMostrando = true;
 
-arregloPerros = [new Perro('pitbull','grande'),
-new Perro('Gran danes','Grande')]
-
+  arregloPerros = [new Perro('pitbull', 'grande'),
+    new Perro('Gran danes', 'Grande')]
 
 
   arregloFlores = [
-    new Flor("Papitas","A lo bestia"),
-    new Flor("Carnitas","Gorditas"),
-    new Flor("Chicas","Cheveres")
+    new Flor("Papitas", "A lo bestia"),
+    new Flor("Carnitas", "Gorditas"),
+    new Flor("Chicas", "Cheveres")
   ];
-arregloPerrosJs=[
-  {
-    raza:'pitbull',
-    tamanio:'grande'
-
-
-  }
+  arregloPerrosJs = [
+    {
+      titulo: 'Juanito',
+      raza: 'pitbull',
+      tamanio: 'grande',
+      notas:['papitas', 'Empanadas']
+    }
     ,
-  {
-    raza: 'gran Danes',
-    tamanio: 'Grandote'
-
-  },
-  {
-    raza:'Zorro',
-    tamanio:'Grandoteeee'
-
-  }
-
-
-]
+    {
+      titulo: 'Pepito',
+      raza: 'gran Danes',
+      tamanio: 'Grandote',
+      notas:['Hot Dog', 'Hamburger']
+    },
+    {
+      titulo: 'Maria',
+      raza: 'Zorro',
+      tamanio: 'Grandoteeee',
+      notas:['Bonice', 'Yogozo']
+    }
+  ]
   arregloFloresJs = [
     {
-      nombre:"Papitas",
-      descripcion:"A lo bestia",
+      nombre: "Papitas",
+      descripcion: "A lo bestia",
       // dato:1,
       // dato1:1.1,
       // dato3:" asdasd ",
@@ -52,31 +53,39 @@ arregloPerrosJs=[
       // dato6:null
     },
     {
-      nombre:"Carnitas",
-      descripcion:"Gorditas"
+      nombre: "Carnitas",
+      descripcion: "Gorditas"
     },
     {
-      nombre:"Chicas",
-      descripcion:"Cheveres"
+      nombre: "Chicas",
+      descripcion: "Cheveres"
     }
   ]
 
 
-  cambioChela(evento:boolean){
-
-   this.colorCambio = 'verde'
+  constructor(private readonly _carritoService: carritoService){
 
 
 
   }
 
-  cambioCerveza(evento:boolean){
-    this.colorCambio='amarillo'
+  cambioChela(evento: boolean) {
+
+    this.colorCambio = 'verde'
+
 
   }
 
+  cambioCerveza(evento: boolean) {
+    this.colorCambio = 'amarillo'
+
+  }
+
+  Mostrar(estaMostrando: boolean) {
+    this.estaMostrando = estaMostrando;
 
 
+  }
 }
 
 

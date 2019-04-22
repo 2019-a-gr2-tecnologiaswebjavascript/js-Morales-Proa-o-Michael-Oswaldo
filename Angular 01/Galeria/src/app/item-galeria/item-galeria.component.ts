@@ -1,13 +1,24 @@
-import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
+
+import {Component, OnInit, Input, Output, EventEmitter, OnDestroy} from '@angular/core';
+import {carritoService} from "../servicios/carrito/carrito.service";
+
 
 @Component({
   selector: 'app-item-galeria',
   templateUrl: './item-galeria.component.html',
   styleUrls: ['./item-galeria.component.css']
 })
-export class ItemGaleriaComponent implements OnInit {
+export class ItemGaleriaComponent implements OnInit, OnDestroy {
 
   title = 'Licoreria';
+
+
+
+  @Input()
+colorClase;
+
+  @Input()
+  titulo
 
   @Input()
   textoBoton;
@@ -23,12 +34,44 @@ export class ItemGaleriaComponent implements OnInit {
 
   url = "http://www.dna-autoparts.com/23121-thickbox_default/bielas-forjadas-eagle-para-sr20det.jpg";
 
-  notas = [1,2,3,4,5,6,7,8,9,10]
+@Input()
+  notas;
 
-  constructor() { }
+
+
+  notitas =[6,7,8,9]
+
+  constructor(private readonly _carritoService: carritoService) {
+
+
+
+  }
 
   ngOnInit() {
+    console.log('Inicio la vida del componente');
+    console.log(this._carritoService.carritoCompras);
   }
+
+  ngOnDestroy(){
+    console.log('Dejo de existir el componente')
+  }
+
+
+  agregarCarrito(valorCarrito){
+    const itemCarrito =  {
+      valor: valorCarrito,
+      nombreTienda: this.titulo
+
+
+    };
+
+//this._carritoService.carritoCompras.push(valorCarrito);
+    this._carritoService.carritoCompras.splice(0,0,itemCarrito);
+    console.log(this._carritoService.carritoCompras)
+  }
+
+
+
 
   alertar(){
     alert('Auxilio me desmayo: ' + this.nombreItem);
@@ -72,3 +115,5 @@ class Usuario{
  }
 }
 */
+
+

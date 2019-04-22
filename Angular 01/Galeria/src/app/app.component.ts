@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {carritoService} from "./servicios/carrito/carrito.service";
 
 @Component({
   selector: 'app-root',
@@ -8,17 +9,46 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Floreria';
 
+  colorCambio = 'rojo';
+  estaMostrando = true;
+
+  arregloPerros = [new Perro('pitbull', 'grande'),
+    new Perro('Gran danes', 'Grande')]
+
 
   arregloFlores = [
-    new Flor("Papitas","A lo bestia"),
-    new Flor("Carnitas","Gorditas"),
-    new Flor("Chicas","Cheveres")
+    new Flor("Papitas", "A lo bestia"),
+    new Flor("Carnitas", "Gorditas"),
+    new Flor("Chicas", "Cheveres")
   ];
-
+  arregloPerrosJs = [
+    {
+      titulo: 'Juanito',
+      raza: 'pitbull',
+      tamanio: 'grande',
+      notas:['papitas', 'Empanadas']
+    }
+    ,
+    {
+      titulo: 'Pepito',
+      raza: 'gran Danes',
+      tamanio: 'Grandote',
+      notas:['Hot Dog', 'Hamburger']
+    },
+    {
+      titulo: 'Maria',
+      raza: 'Zorro',
+      tamanio: 'Grandoteeee',
+      notas:['Bonice', 'Yogozo']
+    }
+  ]
   arregloFloresJs = [
     {
-      nombre:"Papitas",
-      descripcion:"A lo bestia",
+      nombre: "Papitas",
+      descripcion: "A lo bestia",
+
+
+
       // dato:1,
       // dato1:1.1,
       // dato3:" asdasd ",
@@ -27,32 +57,48 @@ export class AppComponent {
       // dato6:null
     },
     {
-      nombre:"Carnitas",
-      descripcion:"Gorditas"
+
+      nombre: "Carnitas",
+      descripcion: "Gorditas"
     },
     {
-      nombre:"Chicas",
-      descripcion:"Cheveres"
+      nombre: "Chicas",
+      descripcion: "Cheveres"
+
     }
   ]
 
 
-  cambioChela(evento:boolean){
-    // logica hacerle verde
 
+  constructor(private readonly _carritoService: carritoService){
 
 
 
   }
 
-  cambioCerveza(evento:boolean){
-    // logica hacerle amarillo
+  cambioChela(evento: boolean) {
+
+    this.colorCambio = 'verde'
+
 
   }
 
+  cambioCerveza(evento: boolean) {
+    this.colorCambio = 'amarillo'
+
+  }
+
+  Mostrar(estaMostrando: boolean) {
+    this.estaMostrando = estaMostrando;
 
 
+  }
 }
+
+
+
+
+
 
 class Flor{
   constructor(
@@ -60,3 +106,12 @@ class Flor{
     public descripcion:string){
   }
 }
+
+class Perro{
+  constructor(public raza: string,
+              public tamanio: string){
+
+  }
+}
+
+

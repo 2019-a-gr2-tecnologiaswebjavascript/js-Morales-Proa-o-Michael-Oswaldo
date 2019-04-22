@@ -1,8 +1,7 @@
 
 import {Component, OnInit, Input, Output, EventEmitter, OnDestroy} from '@angular/core';
 import {carritoService} from "../servicios/carrito/carrito.service";
-
-
+import {} from'../interfaces/item-carrito-compras';
 @Component({
   selector: 'app-item-galeria',
   templateUrl: './item-galeria.component.html',
@@ -57,7 +56,7 @@ colorClase;
   }
 
 
-  agregarCarrito(valorCarrito){
+  agregarCarrito(valorCarrito: string){
     const itemCarrito =  {
       valor: valorCarrito,
       nombreTienda: this.titulo
@@ -65,7 +64,7 @@ colorClase;
 
     };
 
-//this._carritoService.carritoCompras.push(valorCarrito);
+// this._carritoService.carritoCompras.push(valorCarrito);
     this._carritoService.carritoCompras.splice(0,0,itemCarrito);
     console.log(this._carritoService.carritoCompras)
   }
@@ -99,6 +98,13 @@ colorClase;
 
 }
 
+
+/*
+class CarritoCompraClass implements CarritoDeComprasInterface{
+  valor: string;
+  nombreTienda: string;
+ // fechaCompra?:Date;
+}*/
 /*
 @DecoratorsClase()
 class Usuario{

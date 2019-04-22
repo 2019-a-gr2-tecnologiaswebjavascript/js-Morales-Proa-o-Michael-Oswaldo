@@ -8,6 +8,7 @@ import {carritoService} from "./servicios/carrito/carrito.service";
 })
 export class AppComponent {
   title = 'Floreria';
+
   colorCambio = 'rojo';
   estaMostrando = true;
 
@@ -45,6 +46,9 @@ export class AppComponent {
     {
       nombre: "Papitas",
       descripcion: "A lo bestia",
+
+
+
       // dato:1,
       // dato1:1.1,
       // dato3:" asdasd ",
@@ -53,14 +57,17 @@ export class AppComponent {
       // dato6:null
     },
     {
+
       nombre: "Carnitas",
       descripcion: "Gorditas"
     },
     {
       nombre: "Chicas",
       descripcion: "Cheveres"
+
     }
   ]
+
 
 
   constructor(private readonly _carritoService: carritoService){

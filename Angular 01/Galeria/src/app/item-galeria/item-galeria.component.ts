@@ -1,5 +1,7 @@
+
 import {Component, OnInit, Input, Output, EventEmitter, OnDestroy} from '@angular/core';
 import {carritoService} from "../servicios/carrito/carrito.service";
+
 
 @Component({
   selector: 'app-item-galeria',
@@ -17,6 +19,7 @@ colorClase;
 
   @Input()
   titulo
+
   @Input()
   textoBoton;
 
@@ -30,6 +33,7 @@ colorClase;
   cambioCerveza: EventEmitter<boolean> = new EventEmitter()
 
   url = "http://www.dna-autoparts.com/23121-thickbox_default/bielas-forjadas-eagle-para-sr20det.jpg";
+
 @Input()
   notas;
 
@@ -52,6 +56,7 @@ colorClase;
     console.log('Dejo de existir el componente')
   }
 
+
   agregarCarrito(valorCarrito){
     const itemCarrito =  {
       valor: valorCarrito,
@@ -64,6 +69,7 @@ colorClase;
     this._carritoService.carritoCompras.splice(0,0,itemCarrito);
     console.log(this._carritoService.carritoCompras)
   }
+
 
 
 
@@ -109,4 +115,5 @@ class Usuario{
  }
 }
 */
+
 

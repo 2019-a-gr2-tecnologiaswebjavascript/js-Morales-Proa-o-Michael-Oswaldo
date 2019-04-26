@@ -11,3 +11,54 @@
 
   color:yellow;
 }
+.contenedor{
+
+  padding: 40px;
+  margin: 40px;
+  border: 40px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  border-style: dashed;
+  border-bottom-style: dotted;
+border-top-color: blue;
+
+
+
+}
+.contenedor{
+
+  border-color: #95999c;
+}
+.contenedor{
+
+
+  border-color: #0056b3;
+}
+
+
+.item-menu{
+
+  color:darkblue;
+  margin: 10px;
+  min-width: 21px;
+  min-height: 58px;
+}
+.item-menu:hover{
+
+  color:white;
+  margin: 10px;
+  background: darkblue;
+transform: scale(1.5,1.5);
+  cursor: pointer;
+  border: grey solid 2px;
+  float: right;
+
+}
+.texto-derecha{
+
+  text-align: right;
+  float: right;
+
+}

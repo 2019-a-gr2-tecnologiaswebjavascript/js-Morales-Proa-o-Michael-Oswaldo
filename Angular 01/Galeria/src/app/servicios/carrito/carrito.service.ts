@@ -1,34 +1,47 @@
 import {Injectable} from "@angular/core";
+import {ItemCarritoCompras} from "../../interfaces/item-carrito-compras";
 
 @Injectable()
 export class carritoService {
 
-  carrito = [
-    {
-      tienda: 'juanito',
-      notas: [],
-      valor: 0
-    },
-    {
-      tienda: 'pepito',
-      notas: [],
-      valor: 0
-    }, {
 
-      tienda: 'maria',
-      notas: [],
-      valor: 0
+  carritoCompras: ItemCarritoCompras[] = [];
+
+  agregarCarritoCompras(itemCarrito: ItemCarritoCompras): ItemCarritoCompras [] {
+let indiceItem = -1
+    const identificador = itemCarrito.valor;
+    const identificadorTienda = itemCarrito.nombreTienda;
+    const existeElItem = this.carritoCompras.some((item: ItemCarritoCompras,indice) => {
+
+      if (item.valor == identificador && item.nombreTienda==identificadorTienda) {
+      indiceItem = indice
+        return true
+      } else {
+          return false
+      }
+    })
+    if (existeElItem) {
+      this.añadirAlContador(indiceItem)
+      console.log('Se añadio al carriotp ')
+    }
+    else {
+
+   this.añadirAlCarrito(itemCarrito)
     }
 
+console.log('se añadio al carrito',itemCarrito)
+    return this.carritoCompras
+  }
 
-  ];
-  carritoCompras = [];
-
-
-  agregarItemCarrito(tienda: String, itemCarrito: String) {
-
-    //logica para agregar al carrito
+  private añadirAlContador(indice:number) {
+    this.carritoCompras[indice].cantidad++;
 
 
   }
+ private  añadirAlCarrito(item:ItemCarritoCompras){
+    item.cantidad= 1;
+    this.carritoCompras.splice(0,0,item)
+    ;
+  }
+
 }

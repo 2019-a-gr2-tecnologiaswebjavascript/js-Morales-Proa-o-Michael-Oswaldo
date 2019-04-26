@@ -5,33 +5,42 @@ import {ItemCarritoCompras} from "../../interfaces/item-carrito-compras";
 export class carritoService {
 
 
-  carritoCompras:ItemCarritoCompras[] = [];
+  carritoCompras: ItemCarritoCompras[] = [];
 
-  agregarCarritoCompras(itemCarrito : ItemCarritoCompras): ItemCarritoCompras []{
+  agregarCarritoCompras(itemCarrito: ItemCarritoCompras): ItemCarritoCompras [] {
+let indiceItem = -1
+    const identificador = itemCarrito.valor;
+    const existeElItem = this.carritoCompras.some((item: ItemCarritoCompras,indice) => {
 
-  const identificador = itemCarrito.valor;
-let indiceItem = -1;
-  const existeElItem = this.carritoCompras
-    .some(
-      (item: ItemCarritoCompras, indice)=>{
-        if( item.valor == identificador){
-          indiceItem = indice;
-        }
-        else{
-          return false;
-        }
-
-
+      if (item.valor == identificador) {
+      indiceItem = indice
+        return true
+      } else {
+          return false
       }
-    )
-
-
-    if(){
-
+    })
+    if (existeElItem) {
+      this.añadirAlContador(indiceItem)
+      console.log('Se añadio al carriotp ')
     }
-      else{
+    else {
 
+   this.añadirAlCarrito(itemCarrito)
     }
-  return[];
+
+console.log('se añadio al carrito',itemCarrito)
+    return this.carritoCompras
   }
+
+  private añadirAlContador(indice:number) {
+    this.carritoCompras[indice].cantidad++;
+
+
+  }
+ private  añadirAlCarrito(item:ItemCarritoCompras){
+    item.cantidad= 1;
+    this.carritoCompras.splice(0,0,item)
+    ;
+  }
+
 }

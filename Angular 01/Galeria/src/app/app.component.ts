@@ -26,20 +26,20 @@ export class AppComponent {
       titulo: 'Juanito',
       raza: 'pitbull',
       tamanio: 'grande',
-      notas:['papitas', 'Empanadas']
+      notas:['papitas', 'Empanadas','Ensalada']
     }
     ,
     {
       titulo: 'Pepito',
       raza: 'gran Danes',
       tamanio: 'Grandote',
-      notas:['Hot Dog', 'Hamburger']
+      notas:['Hot Dog', 'Hamburger','Ensalada']
     },
     {
       titulo: 'Maria',
       raza: 'Zorro',
       tamanio: 'Grandoteeee',
-      notas:['Bonice', 'Yogozo']
+      notas:['Bonice', 'Yogozo','Ensalada']
     }
   ]
   arregloFloresJs = [

@@ -17,42 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/item-galeria/item-galeria.component.spec.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#0#73#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#42#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/app.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="e#0#58#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/item-galeria/item-galeria.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="782">
@@ -95,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="106">
-              <caret line="49" column="14" lean-forward="true" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+              <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -109,11 +73,43 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02_ionic/tinderpoli/src/app/tab1/tab1.page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="103" column="13" selection-start-line="103" selection-start-column="13" selection-end-line="103" selection-end-column="13" />
+            <state relative-caret-position="-1564">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/polyfills.ts">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/app/tab1/tab1.page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="112" column="38" selection-start-line="112" selection-start-column="38" selection-end-line="112" selection-end-column="38" />
+              <folding>
+                <element signature="n#style#0;n#ion-col#0;n#ion-row#0;n#ion-grid#0;n#ion-header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ion-col#1;n#ion-row#0;n#ion-grid#0;n#ion-header#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ion-col#2;n#ion-row#0;n#ion-grid#0;n#ion-header#0;n#!!top" expanded="true" />
+                <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-col#3;n#ion-row#0;n#ion-grid#0;n#ion-label#0;n#ion-item#0;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
+                <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-item#2;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
+                <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-item#3;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ion-label#0;n#ion-row#1;n#ion-grid#0;n#ion-item#4;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_ionic/tinderpoli/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -145,6 +141,7 @@
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/styles.css" />
         <option value="$PROJECT_DIR$/02_ionic/tinderpoli/src/app/tab1/tab1.page.html" />
+        <option value="$PROJECT_DIR$/02_ionic/deber/src/app/tab1/tab1.page.html" />
       </list>
     </option>
   </component>
@@ -248,6 +245,36 @@
               <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="02_ionic" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="deber" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="02_ionic" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="deber" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="02_ionic" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="deber" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="02_ionic" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="deber" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tab1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="02_ionic" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="tinderpoli" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
@@ -296,7 +323,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="settings.editor.splitter.proportion" value="0.24703558" />
-    <property name="ts.external.directory.path" value="C:\Users\Michael Drake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo\Angular 01\Galeria\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -329,12 +356,12 @@
       <workItem from="1556254850196" duration="7922000" />
       <workItem from="1556294535228" duration="7000" />
       <workItem from="1556313013449" duration="6176000" />
-      <workItem from="1558063099048" duration="6063000" />
+      <workItem from="1558063099048" duration="13013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56918000" />
+    <option name="totallyTimeSpent" value="63868000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -512,7 +539,7 @@
     <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
-          <caret line="49" column="14" lean-forward="true" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -523,10 +550,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/02_ionic/tinderpoli/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/polyfills.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/02_ionic/tinderpoli/src/app/tab1/tab1.page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="103" column="13" selection-start-line="103" selection-start-column="13" selection-end-line="103" selection-end-column="13" />
+        <state relative-caret-position="-1564">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/app/tab1/tab1.page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="112" column="38" selection-start-line="112" selection-start-column="38" selection-end-line="112" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#ion-col#0;n#ion-row#0;n#ion-grid#0;n#ion-header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ion-col#1;n#ion-row#0;n#ion-grid#0;n#ion-header#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ion-col#2;n#ion-row#0;n#ion-grid#0;n#ion-header#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-col#3;n#ion-row#0;n#ion-grid#0;n#ion-label#0;n#ion-item#0;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-item#2;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-item#3;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ion-label#0;n#ion-row#1;n#ion-grid#0;n#ion-item#4;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

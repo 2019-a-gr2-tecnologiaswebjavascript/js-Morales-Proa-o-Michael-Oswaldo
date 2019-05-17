@@ -1,0 +1,8 @@
+{
+  "name": "deber",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "350362dd"
+}

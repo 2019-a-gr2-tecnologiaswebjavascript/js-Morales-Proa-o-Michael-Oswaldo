@@ -17,27 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/polyfills.ts">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/app/tab1/tab1.page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3104">
-              <caret line="280" selection-start-line="280" selection-end-line="280" />
-              <folding>
-                <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-item#2;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-item#6;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-item#10;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-item#14;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-item#18;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/app/tabs/tabs.page.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
@@ -49,8 +28,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="233">
+              <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -58,8 +46,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="357">
+              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-formularios/formularios/node_modules/@angular/core/src/metadata/directives.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8024">
+              <caret line="478" column="4" selection-start-line="478" selection-start-column="4" selection-end-line="478" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -68,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.module.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -77,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/tslint.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -136,13 +133,14 @@
         <option value="$PROJECT_DIR$/02_ionic/deber/src/app/tabs/tabs.page.html" />
         <option value="$PROJECT_DIR$/04-formularios/formularios/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/04-formularios/formularios/src/styles.css" />
         <option value="$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="200" />
-    <option name="y" value="-23" />
+    <option name="x" value="11" />
+    <option name="y" value="-8" />
     <option name="width" value="1008" />
     <option name="height" value="735" />
   </component>
@@ -187,6 +185,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular 01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular 01" type="462c0819:PsiDirectoryNode" />
+              <item name="Galeria" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular 01" type="462c0819:PsiDirectoryNode" />
+              <item name="Galeria" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="462c0819:PsiDirectoryNode" />
+              <item name="Angular 01" type="462c0819:PsiDirectoryNode" />
+              <item name="Galeria" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -224,43 +259,6 @@
               <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="462c0819:PsiDirectoryNode" />
-              <item name="Angular 01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="462c0819:PsiDirectoryNode" />
-              <item name="Angular 01" type="462c0819:PsiDirectoryNode" />
-              <item name="Galeria" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="462c0819:PsiDirectoryNode" />
-              <item name="Angular 01" type="462c0819:PsiDirectoryNode" />
-              <item name="Galeria" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="462c0819:PsiDirectoryNode" />
-              <item name="Angular 01" type="462c0819:PsiDirectoryNode" />
-              <item name="Galeria" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -316,12 +314,15 @@
       <workItem from="1556313013449" duration="6176000" />
       <workItem from="1558063099048" duration="13166000" />
       <workItem from="1558119359895" duration="658000" />
-      <workItem from="1558128395018" duration="5080000" />
+      <workItem from="1558128395018" duration="5246000" />
+      <workItem from="1558322980437" duration="13000" />
+      <workItem from="1558386892930" duration="6214000" />
+      <workItem from="1558477475129" duration="5386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69759000" />
+    <option name="totallyTimeSpent" value="81538000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,7 +335,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859944" visible="true" weight="0.2544643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -348,7 +348,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.06546645" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.09328969" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="11" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -520,26 +520,9 @@
     <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/polyfills.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_ionic/tinderpoli/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/app/tab1/tab1.page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3104">
+        <state relative-caret-position="4760">
           <caret line="280" selection-start-line="280" selection-end-line="280" />
           <folding>
             <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-item#2;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
@@ -558,31 +541,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/tslint.json">
+    <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-formularios/formularios/node_modules/@angular/core/src/metadata/directives.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8024">
+          <caret line="478" column="4" selection-start-line="478" selection-start-column="4" selection-end-line="478" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/tslint.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_ionic/tinderpoli/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="233">
+          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
         </state>
       </provider>
     </entry>

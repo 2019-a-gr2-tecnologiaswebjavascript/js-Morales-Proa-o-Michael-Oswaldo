@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+input.ng-valid.ng-dirty{
+  border-color: #0bb8cc;
+}
+input.ng-invalid.ng-dirty{
+  border-color: red;
+}
+label + input.ng-invalid.ng-dirty{
+  border-color: red;
+}
+label + input.ng-valid.ng-dirty{
+  border-color: green;
+}
+
+
+input.ng-invalid.ng-untouched{
+  border-color: orange;
+}
+

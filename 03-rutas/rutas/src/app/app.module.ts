@@ -9,6 +9,8 @@ import { RutaProductosComponent } from './rutas/ruta-productos/ruta-productos.co
 import { NotFoundComponent } from './rutas/not-found/not-found.component';
 import { RutaProductosTecnologiaComponent } from './rutas/ruta-productos-tecnologia/ruta-productos-tecnologia.component';
 import { RutaProductosDomesticosComponent } from './rutas/ruta-productos-domesticos/ruta-productos-domesticos.component';
+import {EstaLogeadoService} from "./servicios/guards/esta-logeado.service";
+import {AuthService} from "./servicios/auth/auth.service";
 
 @NgModule({
   declarations: [
@@ -24,7 +26,10 @@ import { RutaProductosDomesticosComponent } from './rutas/ruta-productos-domesti
     BrowserModule,
     AppRoutingModule
   ],
-  providers: [],
+  providers: [
+    EstaLogeadoService,
+    AuthService
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

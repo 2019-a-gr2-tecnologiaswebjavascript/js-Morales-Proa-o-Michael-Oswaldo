@@ -6,6 +6,7 @@ import {RutaProductosComponent} from "./rutas/ruta-productos/ruta-productos.comp
 import {NotFoundComponent} from "./rutas/not-found/not-found.component";
 import {RutaProductosTecnologiaComponent} from "./rutas/ruta-productos-tecnologia/ruta-productos-tecnologia.component";
 import {RutaProductosDomesticosComponent} from "./rutas/ruta-productos-domesticos/ruta-productos-domesticos.component";
+import {EstaLogeadoService} from "./servicios/guards/esta-logeado.service";
 
 const routes: Routes = [
   {
@@ -14,7 +15,8 @@ const routes: Routes = [
   },
   {
     path: 'creditos/:idCredito/:tasa',
-    component: RutaCreditosComponent
+    component: RutaCreditosComponent,
+    canActivate: [EstaLogeadoService]
   },
   {
     path: 'productos',

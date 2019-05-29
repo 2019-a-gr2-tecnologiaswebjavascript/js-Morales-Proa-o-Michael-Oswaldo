@@ -14,21 +14,11 @@ consulta:{{cedula}}
 
 
 <form
-
-
-
-
   #formularioUsuario = "ngForm"
   novalidate
   (submit)="guardarUsuario(formularioUsuario)"
-
 >
-
-
   <form action="someAction()"></form>
-  
-  
-
   <label for="nombre">Nombre
 
     <input id="nombre"
@@ -40,34 +30,22 @@ consulta:{{cedula}}
            name="nombreUsuario"
            [(ngModel)]="nombre"
            #vtNombre="ngModel" >
- <!--   <pre>{{vtNombre.valid | json}}</pre>
+<!--   <pre>{{vtNombre.valid | json}}</pre>
 <p *ngIf = 'vtNombre.valid'>Nombre Valido</p>
     <p *ngIf = 'vtNombre.invalid'>Nombre Invalido</p>
 -->
-
-
-
     <pre>{{vtNombre.errors | json}}</pre>
-
     <pre>Valido: {{vtNombre.valid}}</pre>
     <pre>invalido: {{vtNombre.invalid}}</pre>
     <pre>Dirty: {{vtNombre.dirty}}</pre>
     <pre>Pristine: {{vtNombre.pristine}}</pre>
     <pre>Touched: {{vtNombre.touched}}</pre>
     <pre>Untouched: {{vtNombre.untouched}}</pre>
-
-
   </label>
-
   <label for="apellido">Apellido
-
     <input id="apellido" required name="apellidoUsuario" type="text" [(ngModel)]="apellido">
-
   </label>
-
-
   <label for="cedula">Cedula
-
     <input id="cedula"
            name="cedula"
            type="text"
@@ -98,4 +76,6 @@ consulta:{{cedula}}
 
   <button> Ir a google</button>
 
-</>
+</form>
+
+

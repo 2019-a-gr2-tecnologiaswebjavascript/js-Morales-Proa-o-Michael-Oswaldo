@@ -17,96 +17,122 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/app/tabs/tabs.page.html">
+        <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-mostrar-carrito/ruta-mostrar-carrito.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="153">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-home/ruta-home.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1760">
+              <caret line="109" column="11" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro/libro.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro-mostrado/libro-mostrado.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro-mostrado/libro-mostrado.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1683">
+              <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.html">
+        <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-mostrar-carrito/ruta-mostrar-carrito.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-formularios/formularios/node_modules/@angular/core/src/metadata/directives.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8024">
-              <caret line="478" column="4" selection-start-line="478" selection-start-column="4" selection-end-line="478" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.module.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/tslint.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/app/app.component.html">
+        <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-mostrar-carrito/ruta-mostrar-carrito.component.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/index.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_ionic/tinderpoli/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#73#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>sty</find>
+      <find>navb</find>
+      <find>navbarNav</find>
+      <find>ingre</find>
+      <find>perro</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -118,12 +144,10 @@
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/galeria/galeria.component.html" />
         <option value="$PROJECT_DIR$/.gitignore_global" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/mostrar-carrito/mostrar-carrito.component.ts" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/item-galeria/item-galeria.component.html" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/interfaces/item-carrito-compras.ts" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/item-galeria/item-galeria.component.ts" />
-        <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/servicios/carrito/carrito.service.ts" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/angular.json" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.html" />
@@ -132,52 +156,49 @@
         <option value="$PROJECT_DIR$/02_ionic/deber/src/app/tab1/tab1.page.html" />
         <option value="$PROJECT_DIR$/02_ionic/deber/src/app/tabs/tabs.page.html" />
         <option value="$PROJECT_DIR$/04-formularios/formularios/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/04-formularios/formularios/src/styles.css" />
+        <option value="$PROJECT_DIR$/03-rutas/rutas/src/app/rutas/ruta-productos/ruta-productos.component.html" />
+        <option value="$PROJECT_DIR$/03-rutas/rutas/src/app/rutas/ruta-productos/ruta-productos.component.ts" />
+        <option value="$PROJECT_DIR$/03-rutas/rutas/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/03-rutas/rutas/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/03-rutas/rutas/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/03-rutas/rutas/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/03-rutas/rutas/src/app/rutas/ruta-home/ruta-home.component.ts" />
+        <option value="$PROJECT_DIR$/03-rutas/rutas/src/app/rutas/ruta-home/ruta-home.component.html" />
+        <option value="$PROJECT_DIR$/03-rutas/rutas/src/app/servicios/guards/esta-logeado.service.ts" />
+        <option value="$PROJECT_DIR$/03-rutas/rutas/src/app/servicios/auth/auth.service.ts" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/angular.json" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/styles.css" />
         <option value="$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-login/ruta-login.component.html" />
+        <option value="$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/servicios/login/auth.service.ts" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-login/ruta-login.component.ts" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/servicios/auth/esta-logeado-service.service.ts" />
+        <option value="$PROJECT_DIR$/03-rutas/rutas/src/app/rutas/ruta-creditos/ruta-creditos.component.ts" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/servicios/carrito_compras/carrito-compras.service.ts" />
+        <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/servicios/carrito/carrito.service.ts" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro/libro.component.html" />
+        <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/mostrar-carrito/mostrar-carrito.component.ts" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/app-routing.module.ts" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/interfaces/item-carrito-compras.ts" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro/libro.component.ts" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro-mostrado/libro-mostrado.component.html" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro-mostrado/libro-mostrado.component.ts" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-mostrar-carrito/ruta-mostrar-carrito.component.ts" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-home/ruta-home.component.html" />
+        <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-mostrar-carrito/ruta-mostrar-carrito.component.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="11" />
-    <option name="y" value="-8" />
+    <option name="x" value="149" />
+    <option name="y" value="-9" />
     <option name="width" value="1008" />
     <option name="height" value="735" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-          <State>
-            <id>Bitwise operation issuesJavaScript</id>
-          </State>
-          <State>
-            <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>Potentially confusing code constructsJavaScript</id>
-          </State>
-          <State>
-            <id>Probable bugsJavaScript</id>
-          </State>
-          <State>
-            <id>Spelling</id>
-          </State>
-          <State>
-            <id>XPath</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>SpellCheckingInspection</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -232,26 +253,26 @@
             <path>
               <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="04-formularios" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="04-formularios" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="formularios" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Galeria" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="04-formularios" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="formularios" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Galeria" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="04-formularios" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="formularios" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Galeria" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
@@ -259,6 +280,134 @@
               <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Galeria" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="interfaces" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Galeria" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="item-galeria" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Galeria" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mostrar-carrito" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Galeria" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="servicios" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Galeria" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="servicios" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="carrito" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="libro" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="libro-mostrado" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="rutas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="rutas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ruta-home" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Angular 01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="grillas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="rutas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="ruta-mostrar-carrito" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Practicas_Angular" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -274,12 +423,17 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.tslint" value="$PROJECT_DIR$/../../../../Michael Drake/Documents/GitHub/js-Morales-Proa-o-Michael-Oswaldo/Angular 01/Galeria/node_modules/tslint" />
+    <property name="node.js.selected.package.tslint" value="$PROJECT_DIR$/04-formularios/formularios/node_modules/tslint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="settings.editor.splitter.proportion" value="0.24703558" />
     <property name="ts.external.directory.path" value="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo\02_ionic\deber\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo\Angular 01\grillas\grillas\src\app\rutas\ruta-mostrar-carrito" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -318,11 +472,17 @@
       <workItem from="1558322980437" duration="13000" />
       <workItem from="1558386892930" duration="6214000" />
       <workItem from="1558477475129" duration="5386000" />
+      <workItem from="1558887871775" duration="7901000" />
+      <workItem from="1558921784425" duration="10373000" />
+      <workItem from="1558976740188" duration="1840000" />
+      <workItem from="1559014378860" duration="12253000" />
+      <workItem from="1559075907448" duration="14610000" />
+      <workItem from="1559151020013" duration="15216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81538000" />
+    <option name="totallyTimeSpent" value="143731000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -335,9 +495,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49859944" visible="true" weight="0.2544643" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6919105" visible="true" weight="0.34151787" />
+      <window_info id="Structure" order="1" sideWeight="0.3080895" side_tool="true" visible="true" weight="0.34151787" />
       <window_info id="Favorites" order="2" sideWeight="0.5014006" side_tool="true" weight="0.24925596" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -348,8 +509,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.09328969" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.9032738" visible="true" weight="0.049099836" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.096726194" side_tool="true" visible="true" weight="0.049099836" />
       <window_info anchor="bottom" id="TypeScript" order="11" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -380,187 +541,24 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/galeria/galeria.component.html" />
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/galeria/galeria.component.ts" />
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/item-galeria/item-galeria.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-home/ruta-home.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/mostrar-carrito/mostrar-carrito.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/mostrar-carrito/mostrar-carrito.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/mostrar-carrito/mostrar-carrito.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/mostrar-carrito/mostrar-carrito.component.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/item-galeria/item-galeria.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/servicios/carrito/carrito.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/item-galeria/item-galeria.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="e#0#73#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.ts">
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="392">
+          <caret line="95" column="22" selection-start-line="95" selection-start-column="22" selection-end-line="95" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/item-galeria/item-galeria.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
-          <folding>
-            <element signature="e#1#89#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/angular.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="56" column="7" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/interfaces/item-carrito-compras.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_ionic/tinderpoli/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_ionic/tinderpoli/src/app/tab1/tab1.page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/polyfills.ts">
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/app/tab1/tab1.page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4760">
-          <caret line="280" selection-start-line="280" selection-end-line="280" />
-          <folding>
-            <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-item#2;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-item#6;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-item#10;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-item#14;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#ion-avatar#0;n#ion-item#18;n#ion-list#0;n#ion-content#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/app/tabs/tabs.page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-formularios/formularios/node_modules/@angular/core/src/metadata/directives.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8024">
-          <caret line="478" column="4" selection-start-line="478" selection-start-column="4" selection-end-line="478" selection-end-column="4" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -569,34 +567,404 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/tslint.json">
+    <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="-17">
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/app/app.component.html">
+    <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_ionic/deber/src/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_ionic/tinderpoli/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        <state relative-caret-position="431">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-login/ruta-login.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/servicios/auth/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/rutas/ruta-home/ruta-home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-login/ruta-login.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
+          <folding>
+            <element signature="n#div#1;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/servicios/guards/esta-logeado.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="46" selection-start-line="9" selection-start-column="14" selection-end-line="10" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/rutas/ruta-home/ruta-home.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-39">
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/rutas/ruta-home/ruta-home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/rutas/ruta-productos/ruta-productos.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/servicios/auth/esta-logeado-service.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/servicios/auth/esta-logeado-service.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/servicios/login/auth.service.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/servicios/login/auth.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-login/ruta-login.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/rutas/ruta-creditos/ruta-creditos.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/rutas/ruta-creditos/ruta-creditos.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/interfaces/item-carrito-compras.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/servicios/carrito/carrito.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+            <element signature="n#!!block;n#agregarCarritoCompras#0;n#carritoService#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/servicios/carrito_compras/carrito-compras.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/interfaces/item-carrito-compras.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-home/ruta-home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro/libro.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro/libro.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/item-galeria/item-galeria.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1199">
+          <caret line="91" column="6" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/item-galeria/item-galeria.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/mostrar-carrito/mostrar-carrito.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/mostrar-carrito/mostrar-carrito.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro-mostrado/libro-mostrado.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="109" column="11" selection-start-line="109" selection-start-column="6" selection-end-line="109" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro-mostrado/libro-mostrado.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-mostrar-carrito/ruta-mostrar-carrito.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-mostrar-carrito/ruta-mostrar-carrito.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro-mostrado/libro-mostrado.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro/libro.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-home/ruta-home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="57" column="35" selection-start-line="57" selection-start-column="35" selection-end-line="57" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-mostrar-carrito/ruta-mostrar-carrito.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

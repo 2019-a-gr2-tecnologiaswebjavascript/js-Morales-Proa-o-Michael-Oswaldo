@@ -9,13 +9,18 @@ import { RutaHomeComponent } from './rutas/ruta-home/ruta-home.component';
 import {FormsModule} from "@angular/forms";
 import {AuthService} from "./servicios/login/auth.service";
 import {EstaLogeadoServiceService} from "./servicios/auth/esta-logeado-service.service";
+import {CarritoComprasService} from "./servicios/carrito_compras/carrito-compras.service";
+import {RutaMostrarCarritoComponent} from './rutas/ruta-mostrar-carrito/ruta-mostrar-carrito.component';
+import { LibroMostradoComponent } from './libro-mostrado/libro-mostrado.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LibroComponent,
     RutaLoginComponent,
-    RutaHomeComponent
+    RutaHomeComponent,
+    RutaMostrarCarritoComponent,
+    LibroMostradoComponent
   ],
   imports: [
     BrowserModule,
@@ -24,7 +29,8 @@ import {EstaLogeadoServiceService} from "./servicios/auth/esta-logeado-service.s
   ],
   providers: [
     AuthService,
-    EstaLogeadoServiceService
+    EstaLogeadoServiceService,
+    CarritoComprasService
 
   ],
   bootstrap: [AppComponent]

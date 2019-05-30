@@ -1,0 +1,32 @@
+<br>
+<br>
+
+<div class="row">
+
+  <div class="col-sm-1">
+
+  </div>
+  <div class="col-sm-2">
+
+    <button routerLink="/home">Menu</button>
+  </div>
+  <div class="col-sm-5">
+
+
+    <app-libro-mostrado
+
+      *ngFor="let a of valoresCarro"
+      [titulo]="a.titulo"
+      [srcText]="a.imagen"
+      [precio]="a.precio"
+      [cantidad]="a.cantidad"
+
+    ></app-libro-mostrado>
+
+
+
+  </div>
+
+
+</div>
+

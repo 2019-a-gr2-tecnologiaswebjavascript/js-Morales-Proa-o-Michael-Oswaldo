@@ -35,13 +35,10 @@ console.log('se añadio al carrito',itemCarrito)
 
   private añadirAlContador(indice:number) {
     this.carritoCompras[indice].cantidad++;
-
-
   }
  private  añadirAlCarrito(item:ItemCarritoCompras){
     item.cantidad= 1;
     this.carritoCompras.splice(0,0,item)
     ;
   }
-
 }

@@ -9,12 +9,10 @@ import {carritoService} from "../servicios/carrito/carrito.service";
 export class MostrarCarritoComponent implements OnInit {
 
   constructor(private readonly _carritoService:carritoService) {
-
-
-
   }
 
   ngOnInit() {
+
   }
 
 }

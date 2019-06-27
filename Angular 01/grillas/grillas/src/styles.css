@@ -1,0 +1,97 @@
+/* You can add global styles to this file, and also import other style files */
+.contenedore{
+  padding: 40px;
+  margin: 40px;
+  border: 20px black solid;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  border-style: dashed;
+  border-bottom-style: dotted;
+  border-top-color: blue;
+  border-top-right-radius: 50px;
+  border-style: solid;
+  border-bottom-left-radius: 50px;
+  border-top: 0px;
+}
+.contenedor{
+  border-bottom-style: solid ;
+  border-bottom-width: 1px;
+  border-bottom-color: lightgray;
+}
+
+
+
+
+
+
+.item-menu{
+  color:darkblue;
+  margin: 10px;
+  min-width: 20px;
+  min-height: 58px;
+  border: solid white 2px;
+  float: right
+}
+
+.anuncio{
+
+  float: right;
+
+}
+.anuncio2{
+
+  width: 100%;
+}
+
+
+.item-menu:hover{
+  color: white;
+  background-color: darkblue;
+  transform: scale(2, 2);
+  margin: 10px;
+  cursor: pointer;
+  border: grey solid 2px;
+}
+
+
+
+
+.texto-derecha{
+  text-align: right;
+}
+
+body {
+  font-family: Open Sans,sans-serif;
+}
+
+
+
+
+.fontNavbar{
+  font-size:13px
+
+}
+.colorNavbar{
+  background-color: white !important;
+
+}
+.margenIzq{
+
+
+  margin-left: 40px;
+}
+
+.buttonNeg{
+  background-color: white !important;
+
+}
+
+.identificate{
+  font-family: 'MontserratBold', sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 5px 0;
+  letter-spacing: 1px;
+}

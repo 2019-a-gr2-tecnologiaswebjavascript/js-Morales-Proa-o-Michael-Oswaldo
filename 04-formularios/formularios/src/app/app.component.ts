@@ -15,7 +15,9 @@ export class AppComponent {
 //this.nombre = "Benito C."
  //   console.log(formulario)
     console.log(formulario)
+
 const cedula = formulario.controls.cedula.value;
+
     const cedulaValidada = validarCedula(cedula);
     if(cedulaValidada){
       alert('Yupi')

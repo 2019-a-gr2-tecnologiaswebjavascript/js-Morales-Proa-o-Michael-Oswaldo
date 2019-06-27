@@ -56,8 +56,9 @@ colorClase;
   }
 
 
-  agregarCarrito(valorCarrito: string){
+  agregarCarrito(valorCarrito: string, id:number){
   const itemCarrito : ItemCarritoCompras= {
+      id:id,
       valor: valorCarrito,
       nombreTienda: this.titulo,
       fechaCompra:new Date()

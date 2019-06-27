@@ -8,6 +8,8 @@ import { AppComponent } from './app.component';
 import { ItemGaleriaComponent } from './item-galeria/item-galeria.component';
 import {carritoService} from "./servicios/carrito/carrito.service";
 import { MostrarCarritoComponent } from './mostrar-carrito/mostrar-carrito.component';
+import {HttpClientModule} from "@angular/common/http";
+import {HttpItemCarritoCompras} from "./servicios/http/http-itemCarritoCompras";
 
 @NgModule({
   declarations: //aqui se declaran todos los componentes que va a ausar la aplicación.
@@ -21,11 +23,13 @@ import { MostrarCarritoComponent } from './mostrar-carrito/mostrar-carrito.compo
   imports: // aqui guardamos otros moulos.
     [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+      HttpClientModule
   ],
   providers: //aqui vienen los servicios:
     [
-      carritoService
+      carritoService,
+      HttpItemCarritoCompras,
     ],
   bootstrap: [AppComponent]
 })

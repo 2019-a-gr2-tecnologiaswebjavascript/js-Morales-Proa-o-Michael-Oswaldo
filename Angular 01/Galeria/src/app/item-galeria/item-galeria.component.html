@@ -15,6 +15,6 @@
 <!-- Directiva -> *ngFor  -->
 
 <div *ngFor="let nota of notas">
-  <button (click)="agregarCarrito(nota)">{{nota}}</button>
+  <button (click)="agregarCarrito(nota.producto,nota.id)">{{nota.producto}} con id {{nota.id}}</button>
 </div>
 

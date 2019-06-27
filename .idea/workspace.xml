@@ -17,93 +17,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro-mostrado/libro-mostrado.component.ts">
+        <entry file="file://$PROJECT_DIR$/05-backend/tienda-backend/config/datastores.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="867">
+              <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro-mostrado/libro-mostrado.component.html">
+        <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/src/app/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="816">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="e#0#48#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/app.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1683">
-              <caret line="99" selection-start-line="99" selection-end-line="99" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-mostrar-carrito/ruta-mostrar-carrito.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_ionic/practice/src/app/app.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_ionic/practice/src/app/tabs/tabs.page.ts">
+        <entry file="file://$PROJECT_DIR$/05-backend/tienda-backend/.tmp/localDiskDb/archive.db">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_ionic/practice/src/app/app-routing.module.ts">
+        <entry file="file://$PROJECT_DIR$/05-backend/tienda-backend/.tmp/localDiskDb/usuario.db">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/src/environments/environment.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="102">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02_ionic/practice/src/app/tabs/tabs.router.module.ts">
+        <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/src/app/servicios/http/http-sails-principal.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            <state relative-caret-position="170">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
-                <element signature="e#0#41#0" expanded="true" />
+                <element signature="e#96#144#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_ionic/practice/src/app/tabs/tabs.page.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/node_modules/@angular/common/http/src/client.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17663">
+              <caret line="1044" column="4" selection-start-line="1044" selection-start-column="4" selection-end-line="1044" selection-end-column="4" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-mostrar-carrito/ruta-mostrar-carrito.component.spec.ts">
+        <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/src/app/servicios/http/Usuario-http.service.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/src/app/app.component.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <folding>
-                <element signature="e#0#73#0" expanded="true" />
+                <element signature="e#0#55#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/src/app/dto/usuario.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -132,16 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/galeria/galeria.component.html" />
-        <option value="$PROJECT_DIR$/.gitignore_global" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/item-galeria/item-galeria.component.html" />
-        <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/interfaces/item-carrito-compras.ts" />
-        <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/item-galeria/item-galeria.component.ts" />
-        <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.ts" />
-        <option value="$PROJECT_DIR$/Angular 01/Galeria/angular.json" />
-        <option value="$PROJECT_DIR$/Angular 01/Galeria/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/Angular 01/Galeria/src/styles.css" />
         <option value="$PROJECT_DIR$/02_ionic/tinderpoli/src/app/tab1/tab1.page.html" />
         <option value="$PROJECT_DIR$/02_ionic/deber/src/app/tab1/tab1.page.html" />
@@ -183,12 +177,22 @@
         <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-home/ruta-home.component.html" />
         <option value="$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-mostrar-carrito/ruta-mostrar-carrito.component.html" />
         <option value="$PROJECT_DIR$/02_ionic/practice/src/app/tabs/tabs.router.module.ts" />
+        <option value="$PROJECT_DIR$/05-backend/tienda-backend/config/security.js" />
+        <option value="$PROJECT_DIR$/05-backend/tienda-frontend/src/app/dto/usuario.ts" />
+        <option value="$PROJECT_DIR$/05-backend/tienda-frontend/src/environments/environment.prod.ts" />
+        <option value="$PROJECT_DIR$/05-backend/tienda-frontend/src/environments/environment.ts" />
+        <option value="$PROJECT_DIR$/05-backend/tienda-frontend/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/05-backend/tienda-backend/config/datastores.js" />
+        <option value="$PROJECT_DIR$/05-backend/tienda-backend/.tmp/localDiskDb/usuario.db" />
+        <option value="$PROJECT_DIR$/05-backend/tienda-frontend/src/app/servicios/http/Usuario-http.service.ts" />
+        <option value="$PROJECT_DIR$/05-backend/tienda-frontend/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/05-backend/tienda-frontend/src/app/servicios/http/http-sails-principal.ts" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="181" />
-    <option name="y" value="-15" />
+    <option name="x" value="385" />
+    <option name="y" value="96" />
     <option name="width" value="1008" />
     <option name="height" value="493" />
   </component>
@@ -208,37 +212,92 @@
             <path>
               <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="02_ionic" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="05-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="02_ionic" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="practice" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="05-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tienda-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="02_ionic" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="practice" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="05-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tienda-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name=".tmp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="05-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tienda-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name=".tmp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="localDiskDb" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="05-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tienda-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="config" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="05-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tienda-frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="05-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tienda-frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="02_ionic" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="practice" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="05-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tienda-frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="02_ionic" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="practice" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="05-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tienda-frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="tabs" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="dto" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="05-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tienda-frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="servicios" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="05-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tienda-frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="servicios" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="http" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="js-Morales-Proa-o-Michael-Oswaldo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\MichaelDrake\Documents\GitHub\js-Morales-Proa-o-Michael-Oswaldo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="05-backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tienda-frontend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="environments" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -288,7 +347,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="excluded.www.directory" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/MoralesExamen/Comida" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../py-morales-proa-o-michael-oswaldo/05_Scrapy" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="$PROJECT_DIR$/04-formularios/formularios/node_modules/tslint" />
@@ -350,11 +409,15 @@
       <workItem from="1559253280059" duration="2404000" />
       <workItem from="1559333377861" duration="702000" />
       <workItem from="1559541748332" duration="460000" />
+      <workItem from="1560806733784" duration="5747000" />
+      <workItem from="1560830697864" duration="3712000" />
+      <workItem from="1560875227680" duration="5029000" />
+      <workItem from="1560950336286" duration="53000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150204000" />
+    <option name="totallyTimeSpent" value="164745000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,8 +431,8 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.36252546" visible="true" weight="0.15997024" />
-      <window_info id="Structure" order="1" sideWeight="0.63747454" side_tool="true" visible="true" weight="0.15997024" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.797048" visible="true" weight="0.2752976" />
+      <window_info id="Structure" order="1" sideWeight="0.20295203" side_tool="true" visible="true" weight="0.2752976" />
       <window_info id="Favorites" order="2" sideWeight="0.5014006" side_tool="true" weight="0.24925596" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -380,8 +443,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.73511904" visible="true" weight="0.19639935" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.26488096" side_tool="true" visible="true" weight="0.19639935" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.73214287" visible="true" weight="0.11292962" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.26785713" side_tool="true" visible="true" weight="0.11292962" />
       <window_info anchor="bottom" id="TypeScript" order="11" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -412,129 +475,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-formularios/formularios/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-login/ruta-login.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/servicios/auth/auth.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/rutas/ruta-home/ruta-home.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/rutas/ruta-login/ruta-login.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
-          <folding>
-            <element signature="n#div#1;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/servicios/guards/esta-logeado.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="46" selection-start-line="9" selection-start-column="14" selection-end-line="10" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/rutas/ruta-home/ruta-home.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39">
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/rutas/ruta-home/ruta-home.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-rutas/rutas/src/app/rutas/ruta-productos/ruta-productos.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/servicios/auth/esta-logeado-service.service.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/servicios/auth/esta-logeado-service.service.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/servicios/login/auth.service.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -761,13 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro-mostrado/libro-mostrado.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro-mostrado/libro-mostrado.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -789,13 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_ionic/practice/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -825,10 +751,127 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02_ionic/practice/src/app/tabs/tabs.router.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        <state relative-caret-position="-102">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_ionic/practice/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular 01/grillas/grillas/src/app/libro-mostrado/libro-mostrado.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-backend/tienda-backend/.sailsrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-backend/tienda-backend/config/security.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/src/environments/environment.prod.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-backend/tienda-backend/config/datastores.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-backend/tienda-backend/.tmp/localDiskDb/archive.db">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-backend/tienda-backend/.tmp/localDiskDb/usuario.db">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/src/environments/environment.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/node_modules/@angular/common/http/src/client.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17663">
+          <caret line="1044" column="4" selection-start-line="1044" selection-start-column="4" selection-end-line="1044" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/src/app/servicios/http/Usuario-http.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/src/app/dto/usuario.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-backend/tienda-frontend/src/app/servicios/http/http-sails-principal.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#96#144#0" expanded="true" />
           </folding>
         </state>
       </provider>

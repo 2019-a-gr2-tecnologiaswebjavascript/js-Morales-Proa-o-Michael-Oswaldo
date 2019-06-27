@@ -65,6 +65,9 @@ colorClase;
 
 
     };
+
+
+
     const respuestaCarrito = this._carritoService.agregarCarritoCompras(itemCarrito)
     console.log( respuestaCarrito)
 

@@ -15,6 +15,7 @@ import {ProductoUsuarioHttpService} from "./servicios/http/ProductoUsuario-http.
 export class AppComponent implements OnInit {
   title = 'tienda-frontend';
   usuarios: Usuario;
+  archivo:File;
 
 
   constructor(private readonly _httpClient: HttpClient,
@@ -61,6 +62,33 @@ export class AppComponent implements OnInit {
     )
 
 
+  }
+  seleccionarArchivo(evento){
+    const listaArchivos: FileList = evento.target.files;
+    const validaciones ={
+      existeArchivo: listaArchivos.length > 0
+
+    }
+    if (validaciones.existeArchivo){
+      const archivo = listaArchivos[0]
+    this.archivo = archivo
+    console.log(archivo)
+    }
+  }
+
+  enviarArchivo(){
+    const productos$ = this._productoHttpService.cargarArchivo(
+      this.archivo,1
+    );
+
+    productos$.subscribe(
+      (datos)=>{
+        console.log(datos)
+      },
+    (error)=>{
+        console.log(error)
+    }
+    )
   }
 
   actualizar(){

@@ -18,7 +18,7 @@ module.exports.routes = {
   'POST /cargarArchivo/:idProducto': {
     action: 'usuario/upload'
   },
-  'GET /descargarArchivo/id:Producto': {
+  'GET /descargarArchivo/:idProducto': {
     action: 'usuario/download'
   },
 };

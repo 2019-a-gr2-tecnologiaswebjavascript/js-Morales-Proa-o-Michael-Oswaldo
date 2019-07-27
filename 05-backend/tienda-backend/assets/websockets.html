@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Web Sockets Html</title>
+</head>
+<body>
+<script src="dependencies/sails.io.js">
+/*const socketConexion = io.sails.connect();
+socketConexion.on(
+  'connect',
+  () => {
+    console.log("Soket conectado");
+    socketConexion.post(
+      '/temperatura',
+      {
+        medicion:12.094
+      },
+      (respuestaTemperatura)=>{
+        console.log(respuestaTemperatura)
+      }
+    )
+  });
+socketConexion.on(
+  'disconnect',
+  () => {
+    console.log("Soket desconectado")
+  });
+socketConexion.on(
+  'temperatura',
+  (mensaje) => {
+    console.log("Mensaje",mensaje)
+  });*/
+
+io.socket.post(
+  '/temperatura', // url
+  {  // datos
+    medicion:12.094
+  },
+  (respuestaTemperatura) => { // Respuesta
+    console.log('Respuesta:', respuestaTemperatura);
+  });
+io.socket.on(
+  'temperatura',  // Nombre del Modelo (Temperatura)
+  (mensaje) => {
+    console.log("Mensaje: ", mensaje);
+  });
+
+</script>
+</body>
+</html>

@@ -8,3 +8,9 @@ export interface Usuario{
     "contrasenia":string
     facturasDeUsuario?:any[],
 }
+
+
+export interface Credenciales{
+    "email"?: string,
+    "contrasenia"?:string
+}

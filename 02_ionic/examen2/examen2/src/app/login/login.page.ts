@@ -1,6 +1,8 @@
 import {Component, Input, OnInit} from '@angular/core';
 import {HttpClient} from "@angular/common/http";
 import {UsuarioHttpService} from "../services/http/HttpUsuario.service";
+import {Credenciales} from "../dto/Usuario";
+import {AuthService} from "../services/Auth/auth.service";
 
 @Component({
   selector: 'app-login',
@@ -8,31 +10,24 @@ import {UsuarioHttpService} from "../services/http/HttpUsuario.service";
   styleUrls: ['./login.page.scss'],
 })
 export class LoginPage implements OnInit {
-  usuario:string ;
-  contrasenia:string;
 
   constructor(private readonly _httpClient: HttpClient,
               private readonly _usuarioHttpService: UsuarioHttpService,
+              private readonly auth:AuthService,
               ) { }
-
-
-
+credenciales:Credenciales =  {email:'',contrasenia:''};
   ngOnInit() {
   }
 
-  logearse(){
-    console.log("usuario : ",this.usuario," contraseña: ",this.contrasenia)
-    this._usuarioHttpService.buscarTodos()
-        .subscribe(
-            (nuevoProducto)=>{
-              console.log(nuevoProducto)
-            }
-        )
+  logearse() {
+          console.log("usuario : ", this.credenciales.email, " contraseña: ", this.credenciales.contrasenia)
 
-
-
-
+      this.auth.login(this.credenciales)
 
   }
+
+
+
+
 
 }

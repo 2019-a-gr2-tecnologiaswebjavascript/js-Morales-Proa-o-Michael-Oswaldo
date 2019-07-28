@@ -41,4 +41,11 @@ export class HttpEntityService<Entity>{
             .get<Entity[]>(url)
 
     }
+    buscarQuery(query: String):Observable<Entity[]>{
+        const url = `${this.url}${this.modelo}?${query}`;
+        return this.httpClient
+            .get<Entity[]>(url)
+
+    }
+
 }

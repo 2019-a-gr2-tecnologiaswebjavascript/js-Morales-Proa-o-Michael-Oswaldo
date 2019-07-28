@@ -1,3 +1,5 @@
+import {Factura} from "./Factura";
+
 export interface Usuario{
     "createdAt"?: number,
     "updatedAt"?: number,
@@ -6,7 +8,7 @@ export interface Usuario{
     "cedula": string,
     "email": string,
     "contrasenia":string
-    facturasDeUsuario?:any[],
+    facturasDeUsuario: Factura[] | any,
 }
 
 

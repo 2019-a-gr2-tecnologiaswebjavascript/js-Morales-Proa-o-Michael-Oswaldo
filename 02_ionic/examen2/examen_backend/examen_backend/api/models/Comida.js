@@ -18,7 +18,7 @@ module.exports = {
       type:'string'
     },
     numeroPersonas:{
-      type:'string'
+      type:'number'
     },
     picante:{
       type:'boolean'

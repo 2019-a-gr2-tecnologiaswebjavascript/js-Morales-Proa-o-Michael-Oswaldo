@@ -6,7 +6,6 @@
  */
 
 module.exports = {
-
   attributes: {
     nombre:{
     type:'string'
@@ -30,9 +29,6 @@ module.exports = {
       collection:'ingrediente',
       via:'fkComida'
     }
-
-
   },
-
 };
 

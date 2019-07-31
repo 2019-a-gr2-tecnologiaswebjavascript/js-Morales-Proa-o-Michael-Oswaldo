@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import {Component, OnInit} from '@angular/core';
 import {Comida} from "../dto/Comida";
 import {ComidaHttpService} from "../services/http/HttpComida.service";
 import {Router} from "@angular/router";
@@ -8,7 +8,8 @@ import {Router} from "@angular/router";
   templateUrl: 'tab1.page.html',
   styleUrls: ['tab1.page.scss']
 })
-export class Tab1Page {
+export class Tab1Page implements OnInit{
+
   listaComida:Comida[] = [];
   textoBusqueda:string = "";
 
@@ -16,6 +17,10 @@ export class Tab1Page {
   constructor(private readonly _route:Router,
       private readonly httpComida:ComidaHttpService) {
   }
+
+    ngOnInit(){
+        this.actualizarListaComida();
+    }
 
   ionViewWillEnter() {
     console.log("Se ve!!!");
@@ -32,9 +37,9 @@ export class Tab1Page {
     )
 
   }
-  buscarComida(textoBuscar:string){
+  buscarComida(){
 
-    this.httpComida.buscarQuery(`where={"nombre":{"contains":"${textoBuscar}"}}`).subscribe(
+    this.httpComida.buscarQuery(`where={"nombre":{"contains":"${this.textoBusqueda}"}}`).subscribe(
         (dato)=>{
           console.log(dato)
           this.listaComida =dato
@@ -51,22 +56,28 @@ export class Tab1Page {
     this._route.navigate(url)
   }
 
-/*
-  crearComida(comida: Comida){
+  borrar(id:number){
+      this.httpComida.borrar(id).subscribe(
+          (dato)=>{
+              console.log(dato)
+              this.actualizarListaComida()
+          },
+      (error)=>{
+              console.log(error)
+      }
 
-    this.httpComida.crear(comida).subscribe(
-        (datos)=>{console.log(datos)},
-        (error)=>{console.log(error)},
-        ()=>{this.actualizarListaComida()}
-    )
-
-
-
-
+      )
 
 
   }
-*/
+
+  irAIngredientes(id:number){
+      const url = ['/Comida',id,'Ingredientes']
+      this._route.navigate(url)
+  }
+
+
+
 
 
 }

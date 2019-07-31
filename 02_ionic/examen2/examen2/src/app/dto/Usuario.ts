@@ -7,8 +7,10 @@ export interface Usuario{
     "nombre": string,
     "cedula": string,
     "email": string,
-    "contrasenia":string
-    facturasDeUsuario: Factura[] | any,
+    "contrasenia"?:string,
+    "direccion":string,
+    "telefono":string,
+    facturasDeUsuario?: Factura[] | any,
 }
 
 

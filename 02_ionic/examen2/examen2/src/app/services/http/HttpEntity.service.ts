@@ -23,12 +23,12 @@ export class HttpEntityService<Entity>{
         return this.httpClient.put<void>(url,registroActualizado)
 
     }
-    borrar(id:string):Observable<void>{
+    borrar(id:number):Observable<void>{
         const url = `${this.url}${this.modelo}/${id}`;
         return this.httpClient.delete<void>(url)
     }
 
-    buscarPorId(id:string):Observable<Entity>{
+    buscarPorId(id:number):Observable<Entity>{
         const url = `${this.url}${this.modelo}/${id}`;
         return this.httpClient.get<Entity>(url)
 

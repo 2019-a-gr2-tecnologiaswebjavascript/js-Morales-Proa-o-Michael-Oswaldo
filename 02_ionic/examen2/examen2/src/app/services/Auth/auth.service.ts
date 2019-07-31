@@ -26,6 +26,7 @@ export class AuthService extends HttpEntityService<Usuario>{
           if(datos.length > 0){
             console.log(datos)
             this.logeado = true
+            this.currentUser = datos[0]
             const url = ['/tabs']
             this._router.navigate(url)
           }

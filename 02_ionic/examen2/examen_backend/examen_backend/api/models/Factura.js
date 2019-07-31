@@ -8,6 +8,12 @@
 module.exports = {
 
   attributes: {
+    cajero:{
+      type:'string'
+    },
+    total:{
+      type:'string'
+    },
     detallesDeFactura:{
       collection:'detalleFactura',
       via:'fkFactura'

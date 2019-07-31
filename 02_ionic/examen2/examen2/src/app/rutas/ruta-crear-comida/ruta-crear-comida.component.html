@@ -13,7 +13,7 @@
     <ion-col size="8">
       <ion-item>
         <ion-label position="floating">Nombre de la Comida</ion-label>
-        <ion-input type="password" [(ngModel)]="nombre" name="password"></ion-input>
+        <ion-input  [(ngModel)]="comida.nombre" name="password"></ion-input>
       </ion-item>
     </ion-col>
       <ion-col size="2"></ion-col>
@@ -24,7 +24,7 @@
       <ion-col size="8">
         <ion-item>
           <ion-label position="floating">descripcion</ion-label>
-          <ion-input type="password" [(ngModel)]="descripcion" name="password"></ion-input>
+          <ion-input  [(ngModel)]="comida.descripcion" name="password"></ion-input>
         </ion-item>
       </ion-col>
       <ion-col size="2"></ion-col>
@@ -36,7 +36,7 @@
       <ion-col size="8">
         <ion-item>
           <ion-label position="floating">Nacionalidad</ion-label>
-          <ion-input type="password" [(ngModel)]="nacionalidad" name="password"></ion-input>
+          <ion-input  [(ngModel)]="comida.nacionalidad" name="password"></ion-input>
         </ion-item>
       </ion-col>
       <ion-col size="2"></ion-col>
@@ -49,7 +49,7 @@
       <ion-col size="8">
       <ion-item>
         <ion-label position="floating">Numero de Personas</ion-label>
-        <ion-input type="password" [(ngModel)]="numeroPersonas" name="password"></ion-input>
+        <ion-input  [(ngModel)]="comida.numeroPersonas" name="password"></ion-input>
       </ion-item>
     </ion-col>
       <ion-col size="2"></ion-col>
@@ -59,16 +59,11 @@
     <ion-row>
       <ion-col size="2"></ion-col>
 
-      <ion-list  [inset]="esPicante">
-        <ion-list-header>
-          <ion-label>Picante</ion-label>
-        </ion-list-header>
-
+      <ion-list  [inset]="comida.picante">
         <ion-item>
           <ion-label>Picante?</ion-label>
-          <ion-toggle name = "esPicante" [(ngModel)]="esPicante" slot="end" ></ion-toggle>
+          <ion-toggle name = "esPicante" [(ngModel)]="comida.picante" slot="end" ></ion-toggle>
         </ion-item>
-
       </ion-list>
       <ion-col size="2"></ion-col>
 

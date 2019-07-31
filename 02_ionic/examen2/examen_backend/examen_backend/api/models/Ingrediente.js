@@ -23,6 +23,9 @@ module.exports = {
     tipo:{
       type:'string'
     },
+    precio:{
+      type:'number'
+    },
     necesitaRefrigeracion:{
       type:'boolean'
     },

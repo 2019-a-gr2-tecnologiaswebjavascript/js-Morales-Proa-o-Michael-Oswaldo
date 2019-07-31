@@ -21,7 +21,12 @@ module.exports = {
     contrasenia:{
       type:'string'
     },
-
+    direccion:{
+      type:'string'
+    },
+    telefono:{
+      type:'string'
+    },
     facturasDeUsuario:{
       collection:'factura',
       via:'fkUsuario'

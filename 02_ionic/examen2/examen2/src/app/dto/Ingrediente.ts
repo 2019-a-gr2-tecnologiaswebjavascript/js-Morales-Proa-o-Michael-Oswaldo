@@ -10,7 +10,8 @@ export interface Ingrediente{
     descripcion:string,
     original:boolean,
     tipo:string,
+    precio:number,
     necesitaRefrigeracion:boolean,
-    fkComida: number | Comida | any,
-    detallesDeIngrediente: DetalleFactura
+    fkComida?: number | Comida | any,
+    detallesDeIngrediente?: DetalleFactura[] | any
 }

@@ -10,8 +10,8 @@ export interface Comida{
     nacionalidad:string,
     numeroPersonas:number,
     picante:boolean,
-    fkUsuario:number | Usuario | any,
-    ingredientesDeComida:Ingrediente[] | any
+    fkUsuario?:number | Usuario | any,
+    ingredientesDeComida?:Ingrediente[] | any
 }
 
 

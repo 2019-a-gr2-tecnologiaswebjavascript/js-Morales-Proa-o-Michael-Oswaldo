@@ -14,10 +14,16 @@ import {EstaLogeadoService} from "./services/Guards/esta-logeado.service";
 import {ComidaHttpService} from "./services/http/HttpComida.service";
 import {RutaCrearComidaComponent} from "./rutas/ruta-crear-comida/ruta-crear-comida.component";
 import {FormsModule} from "@angular/forms";
+import {RutaIngredienteComidaComponent} from "./rutas/ruta-ingrediente-comida/ruta-ingrediente-comida.component";
+import {IngredienteHttpService} from "./services/http/HttpIngrediente";
+import {RutaIngredienteCrearComponent} from "./rutas/ruta-ingrediente-crear/ruta-ingrediente-crear.component";
+import {CarritoComprasService} from "./services/CarritoCompras/carrito-compras.service";
 
 @NgModule({
   declarations: [AppComponent,
-  RutaCrearComidaComponent],
+  RutaCrearComidaComponent,
+  RutaIngredienteComidaComponent,
+  RutaIngredienteCrearComponent],
   entryComponents: [],
   imports: [BrowserModule, IonicModule.forRoot(), AppRoutingModule, HttpClientModule, FormsModule],
   providers: [
@@ -27,6 +33,8 @@ import {FormsModule} from "@angular/forms";
     AuthService,
       EstaLogeadoService,
       ComidaHttpService,
+      IngredienteHttpService,
+      CarritoComprasService,
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
   ],
   bootstrap: [AppComponent]

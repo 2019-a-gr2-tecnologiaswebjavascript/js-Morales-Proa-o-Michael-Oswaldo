@@ -5,7 +5,8 @@ import {Ingrediente} from "../dto/Ingrediente";
 import {IngredienteHttpService} from "../services/http/HttpIngrediente";
 import {CarritoComprasService} from "../services/CarritoCompras/carrito-compras.service";
 import {DetalleFactura} from "../dto/DetalleFactura";
-
+import {FacturationServiceService} from "../services/Facturation/facturation-service.service";
+import {Router} from "@angular/router";
 @Component({
   selector: 'app-tab3',
   templateUrl: 'tab3.page.html',
@@ -20,7 +21,9 @@ export class Tab3Page implements OnInit{
 
   constructor(private readonly _auth:AuthService,
               private readonly httpIngrediente:IngredienteHttpService,
-              private readonly _carrito:CarritoComprasService){}
+              private readonly _carrito:CarritoComprasService,
+              private readonly _facturation:FacturationServiceService,
+              private readonly _route:Router){}
 
 ngOnInit(){
     this.datos()
@@ -67,12 +70,11 @@ ngOnInit(){
 
 
     comprar(){
+     console.log('Comprando')
 
-      console.log(this._carrito.detalles)
-        console.log(this.userToFacture)
-
-
-
+       this._facturation.facturar(this.detallesFactura,this.currentUser,this.total,this.userToFacture)
+        const url = ['tabs']
+        this._route.navigate(url)
     }
 
 

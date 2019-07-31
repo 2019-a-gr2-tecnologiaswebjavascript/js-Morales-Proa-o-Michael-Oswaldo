@@ -8,6 +8,6 @@ export interface Factura{
     "id"?: number,
     cajero: String,
     total:number,
-    detallesDeFactura: DetalleFactura[] | any,
+    detallesDeFactura?: DetalleFactura[] | any,
     fkUsuario: number | Usuario | any
 }

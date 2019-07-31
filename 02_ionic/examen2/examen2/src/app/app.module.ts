@@ -18,6 +18,10 @@ import {RutaIngredienteComidaComponent} from "./rutas/ruta-ingrediente-comida/ru
 import {IngredienteHttpService} from "./services/http/HttpIngrediente";
 import {RutaIngredienteCrearComponent} from "./rutas/ruta-ingrediente-crear/ruta-ingrediente-crear.component";
 import {CarritoComprasService} from "./services/CarritoCompras/carrito-compras.service";
+import {FacturationServiceService} from "./services/Facturation/facturation-service.service";
+import {DetalleFacturaHttp} from "./services/http/HttpDetalleFactura";
+import {FacturaHttp} from "./services/http/HttpFactura";
+
 
 @NgModule({
   declarations: [AppComponent,
@@ -35,6 +39,11 @@ import {CarritoComprasService} from "./services/CarritoCompras/carrito-compras.s
       ComidaHttpService,
       IngredienteHttpService,
       CarritoComprasService,
+      FacturationServiceService,
+      DetalleFacturaHttp,
+      FacturaHttp,
+
+
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy }
   ],
   bootstrap: [AppComponent]

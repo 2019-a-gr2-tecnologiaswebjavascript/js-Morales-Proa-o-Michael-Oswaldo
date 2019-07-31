@@ -7,6 +7,42 @@
 </ion-header>
 
 <ion-content>
+  <ion-grid>
+    <ion-row>
+      <ion-col size="8">
+        <ion-item>
+          <ion-label position="floating" >Buscar</ion-label>
+          <ion-input  [(ngModel)]="textoBusqueda" ></ion-input>
+        </ion-item>
+      </ion-col>
+      <ion-col size="4">
+        <br>
+        <ion-button type="submit" (click)="buscarFacturas()" >Buscar </ion-button>
+      </ion-col>
+    </ion-row>
 
+
+  </ion-grid>
+
+
+<ion-label>Compras:</ion-label>
+  <ion-card *ngFor="let factura of listaCompras">
+    <ion-card-header>
+      <ion-card-title>Factura de: {{factura.fkUsuario.nombre}}</ion-card-title>
+      <ion-item>
+        <ion-label>cedula: {{factura.fkUsuario.cedula}}</ion-label>
+      </ion-item>
+      <ion-item>
+        <ion-label>dirección: {{factura.fkUsuario.direccion}}</ion-label>
+      </ion-item>
+      <ion-item>
+        <ion-label>cajero: {{factura.cajero}}</ion-label>
+      </ion-item>
+      <ion-item>
+        <ion-label>Total: {{factura.total}}</ion-label>
+      </ion-item>
+    </ion-card-header>
+
+  </ion-card>
 
 </ion-content>
